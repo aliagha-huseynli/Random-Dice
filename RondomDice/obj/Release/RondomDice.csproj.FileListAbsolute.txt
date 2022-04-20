@@ -1,0 +1,15 @@
+c:\users\ali\documents\visual studio 2017\Projects\RondomDice\RondomDice\bin\Release\Photo\0.png
+c:\users\ali\documents\visual studio 2017\Projects\RondomDice\RondomDice\bin\Release\Photo\1.png
+c:\users\ali\documents\visual studio 2017\Projects\RondomDice\RondomDice\bin\Release\Photo\2.png
+c:\users\ali\documents\visual studio 2017\Projects\RondomDice\RondomDice\bin\Release\Photo\3.png
+c:\users\ali\documents\visual studio 2017\Projects\RondomDice\RondomDice\bin\Release\Photo\4.png
+c:\users\ali\documents\visual studio 2017\Projects\RondomDice\RondomDice\bin\Release\Photo\5.png
+c:\users\ali\documents\visual studio 2017\Projects\RondomDice\RondomDice\bin\Release\Photo\6.png
+c:\users\ali\documents\visual studio 2017\Projects\RondomDice\RondomDice\bin\Release\RondomDice.exe.config
+c:\users\ali\documents\visual studio 2017\Projects\RondomDice\RondomDice\bin\Release\RondomDice.exe
+c:\users\ali\documents\visual studio 2017\Projects\RondomDice\RondomDice\bin\Release\RondomDice.pdb
+c:\users\ali\documents\visual studio 2017\Projects\RondomDice\RondomDice\obj\Release\RondomDice.Form1.resources
+c:\users\ali\documents\visual studio 2017\Projects\RondomDice\RondomDice\obj\Release\RondomDice.Properties.Resources.resources
+c:\users\ali\documents\visual studio 2017\Projects\RondomDice\RondomDice\obj\Release\RondomDice.csproj.GenerateResource.Cache
+c:\users\ali\documents\visual studio 2017\Projects\RondomDice\RondomDice\obj\Release\RondomDice.exe
+c:\users\ali\documents\visual studio 2017\Projects\RondomDice\RondomDice\obj\Release\RondomDice.pdb

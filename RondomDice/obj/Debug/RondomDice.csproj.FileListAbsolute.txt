@@ -1,0 +1,33 @@
+c:\users\ali\documents\visual studio 2017\Projects\RondomDice\RondomDice\bin\Debug\RondomDice.exe.config
+c:\users\ali\documents\visual studio 2017\Projects\RondomDice\RondomDice\bin\Debug\RondomDice.exe
+c:\users\ali\documents\visual studio 2017\Projects\RondomDice\RondomDice\bin\Debug\RondomDice.pdb
+c:\users\ali\documents\visual studio 2017\Projects\RondomDice\RondomDice\obj\Debug\RondomDice.csprojResolveAssemblyReference.cache
+c:\users\ali\documents\visual studio 2017\Projects\RondomDice\RondomDice\obj\Debug\RondomDice.Form1.resources
+c:\users\ali\documents\visual studio 2017\Projects\RondomDice\RondomDice\obj\Debug\RondomDice.Properties.Resources.resources
+c:\users\ali\documents\visual studio 2017\Projects\RondomDice\RondomDice\obj\Debug\RondomDice.csproj.GenerateResource.Cache
+c:\users\ali\documents\visual studio 2017\Projects\RondomDice\RondomDice\obj\Debug\RondomDice.exe
+c:\users\ali\documents\visual studio 2017\Projects\RondomDice\RondomDice\obj\Debug\RondomDice.pdb
+c:\users\ali\documents\visual studio 2017\Projects\RondomDice\RondomDice\bin\Debug\Photo\0.png
+c:\users\ali\documents\visual studio 2017\Projects\RondomDice\RondomDice\bin\Debug\Photo\1.png
+c:\users\ali\documents\visual studio 2017\Projects\RondomDice\RondomDice\bin\Debug\Photo\2.png
+c:\users\ali\documents\visual studio 2017\Projects\RondomDice\RondomDice\bin\Debug\Photo\3.png
+c:\users\ali\documents\visual studio 2017\Projects\RondomDice\RondomDice\bin\Debug\Photo\4.png
+c:\users\ali\documents\visual studio 2017\Projects\RondomDice\RondomDice\bin\Debug\Photo\5.png
+c:\users\ali\documents\visual studio 2017\Projects\RondomDice\RondomDice\bin\Debug\Photo\6.png
+C:\Users\Ali\Downloads\Documents\Projects\RondomDice\RondomDice\bin\Debug\Photo\0.png
+C:\Users\Ali\Downloads\Documents\Projects\RondomDice\RondomDice\bin\Debug\Photo\1.png
+C:\Users\Ali\Downloads\Documents\Projects\RondomDice\RondomDice\bin\Debug\Photo\2.png
+C:\Users\Ali\Downloads\Documents\Projects\RondomDice\RondomDice\bin\Debug\Photo\3.png
+C:\Users\Ali\Downloads\Documents\Projects\RondomDice\RondomDice\bin\Debug\Photo\4.png
+C:\Users\Ali\Downloads\Documents\Projects\RondomDice\RondomDice\bin\Debug\Photo\5.png
+C:\Users\Ali\Downloads\Documents\Projects\RondomDice\RondomDice\bin\Debug\Photo\6.png
+C:\Users\Ali\Downloads\Documents\Projects\RondomDice\RondomDice\bin\Debug\RondomDice.exe.config
+C:\Users\Ali\Downloads\Documents\Projects\RondomDice\RondomDice\bin\Debug\RondomDice.exe
+C:\Users\Ali\Downloads\Documents\Projects\RondomDice\RondomDice\bin\Debug\RondomDice.pdb
+C:\Users\Ali\Downloads\Documents\Projects\RondomDice\RondomDice\obj\Debug\RondomDice.csprojResolveAssemblyReference.cache
+C:\Users\Ali\Downloads\Documents\Projects\RondomDice\RondomDice\obj\Debug\RondomDice.Form1.resources
+C:\Users\Ali\Downloads\Documents\Projects\RondomDice\RondomDice\obj\Debug\RondomDice.Properties.Resources.resources
+C:\Users\Ali\Downloads\Documents\Projects\RondomDice\RondomDice\obj\Debug\RondomDice.csproj.GenerateResource.Cache
+C:\Users\Ali\Downloads\Documents\Projects\RondomDice\RondomDice\obj\Debug\RondomDice.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Downloads\Documents\Projects\RondomDice\RondomDice\obj\Debug\RondomDice.exe
+C:\Users\Ali\Downloads\Documents\Projects\RondomDice\RondomDice\obj\Debug\RondomDice.pdb
