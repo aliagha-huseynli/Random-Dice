@@ -1,4 +1,4 @@
-﻿namespace RondomDice
+﻿namespace RandomDice
 {
     partial class Form1
     {
